@@ -1,0 +1,19 @@
+.colorful {
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}   
+
+#first {
+    color: blue;
+    font-size: 36px;
+}
+
+.so-colorful {
+    font-size: 24px;
+}
+
+#second {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
